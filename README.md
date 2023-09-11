@@ -4,5 +4,7 @@
 ![image](https://github.com/Stephenwang3801/ECE444-F2023-Assignment1/assets/25191547/138b0195-ff0e-4a98-abcc-17a3a955d552)
 ![image](https://github.com/Stephenwang3801/ECE444-F2023-Assignment1/assets/25191547/7511a102-2236-45d9-a9f7-85a80befe509)
 ![image](https://github.com/Stephenwang3801/ECE444-F2023-Assignment1/assets/25191547/f36f14a3-7ad7-46ea-b3f1-a89e78c1e475)
-![image](https://github.com/Stephenwang3801/ECE444-F2023-Assignment1/assets/25191547/7102a511-7881-4f79-9862-ce0931ce5a6e)
+![image](https://github.com/Stephenwang3801/ECE444-F2023-Assignment1/assets/25191547/97c69469-e6ad-4975-b84d-b7672dc795d7)
+![image](https://github.com/Stephenwang3801/ECE444-F2023-Assignment1/assets/25191547/84f27510-facd-410b-8a5d-eae9f11b3c81)
+
 
